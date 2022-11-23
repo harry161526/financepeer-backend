@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+/* common on all pages */
+
+body {
+ background: #fafbfc;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;      
+}
+*{
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+}
